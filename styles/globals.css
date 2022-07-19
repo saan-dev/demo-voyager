@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.explorer-wrapper>voyager-explorer {
+  display: block;
+  position: relative;
+  height: 40vh;
+  width: 40%;
+}
